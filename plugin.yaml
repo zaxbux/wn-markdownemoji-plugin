@@ -1,0 +1,6 @@
+plugin:
+    name: 'zaxbux.markdownemoji::lang.plugin.name'
+    description: 'zaxbux.markdownemoji::lang.plugin.description'
+    author: 'Zachary Schneider'
+    icon: oc-icon-smile-o
+    homepage: ''
