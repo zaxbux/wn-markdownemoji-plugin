@@ -1,6 +1,6 @@
 # October CMS Markdown Emoji
 
-A dead-simple plugin that converts emoji shortcodes to headecimal emoji HTML unicode entities. Compatible with the Rainlab Blog plugin (or any other plugin that uses October's built-in markdown parser)
+A dead-simple plugin that converts emoji shortcodes to hexadecimal emoji HTML unicode entities. Compatible with the Rainlab Blog plugin (or any other plugin that uses October's built-in markdown parser)
 
 ## Examples
 
