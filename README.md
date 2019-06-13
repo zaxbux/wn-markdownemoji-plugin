@@ -608,6 +608,9 @@ Alternate skin tones can be applied by adding `:skin-tone-2:` through `:skin-ton
 | `:skin-tone-2:` | `:skin-tone-3:` | `:skin-tone-4:` |
 | `:skin-tone-5:` | `:skin-tone-6:` | |
 
+## Generating the PHP array and Markdown documentation
+
+Included is a `generate.py` Python 3 script that will use an existing `emoji.json` file (available from iamcal/emoji-data) or download the latest version. It will write a PHP file `emoji.php` and markdown file `emoji.md` to make updates and documentation easier.
 
 ## Change Log
 
